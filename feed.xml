@@ -3,7 +3,7 @@
     <title>Nunes Paisagismo</title>
     <link href="https://nunespaisagismo.github.io/feed.xml" rel="self" />
     <link href="https://nunespaisagismo.github.io" />
-    <updated>2020-04-25T02:05:09-03:00</updated>
+    <updated>2020-04-25T02:12:57-03:00</updated>
     <author>
         <name>Abrãao Nunes</name>
     </author>
@@ -194,24 +194,18 @@
         <id>https://nunespaisagismo.github.io/nossas-especialidades/</id>
             <category term="servicos"/>
 
-        <updated>2020-04-25T02:05:02-03:00</updated>
+        <updated>2020-04-25T02:12:48-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nunespaisagismo.github.io/media/posts/1/Post1.jpg" alt="" />
-                    PaisagismoEm nossa empresa elaboramos os projetos agregando técnica com a necessidade dos&hellip;
+                    Nossas EspecialidadesSomos especializados em serviços de Paisagismo, Manutenção de Jardim, Implantação e&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://nunespaisagismo.github.io/media/posts/1/Post1.jpg" alt="" />
-                <h3 id="mcetoc_1e6l1hkv83">Paisagismo</h3>
-<p>Em nossa empresa elaboramos os projetos agregando técnica com a necessidade dos nossos clientes, sendo ele CONDOMÍNIO, EMPRESA ou RESIDÊNCIA.</p>
-<h3 id="mcetoc_1e6l1hngf4">Manutenção de Jardim</h3>
-<p>Nossas manutenções são realizadas por profissionais que estão sempre em treinamento e empenhados no bem estar dos nossos clientes.</p>
-<h3 id="mcetoc_1e6l1jh3p6">Implantação e recuperação gramados</h3>
-<p>Nas implantações trabalhamos com todo cuidado para que seja realizado em superfície que favoreça seu desenvolvimento e manutenção. </p>
-<h3 id="mcetoc_1e6l2likd0">Poda de árvores</h3>
-<p>Somos especializados em serviços de podas e cortes de árvores. Focados na qualidade, satisfação e segurança.</p>
+                <h2 id="mcetoc_1e6l1hkv83">Nossas Especialidades</h2>
+<p>Somos especializados em serviços de Paisagismo, Manutenção de Jardim, Implantação e Recuperação de Gramados e Poda de Árvores. <br><br>Buscamos sempre unir a técnica com a necessidade dos nossos clientes, sendo ele CONDOMÍNIO, EMPRESA ou RESIDÊNCIA.</p>
             ]]>
         </content>
     </entry>

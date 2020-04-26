@@ -29,14 +29,14 @@
             "url": "https://nunespaisagismo.github.io/fale-conosco/",
             "title": "Fale conosco",
             "summary": "Olá, vamos conversar?Fale conosco a qualquer momento. O que você está pensando agora? Deixe-nos&hellip;",
-            "content_html": "<h2 id=\"mcetoc_1e6nqemmr2\">Olá, vamos conversar?</h2>\n<p>Fale conosco a qualquer momento. O que você está pensando agora? Deixe-nos uma mensagem:</p>\n<p> </p>\n<form action=\" https://formsubmit.co/paisagismo.gn@gmail.com\" method=\"POST\"><input name=\"name\" type=\"text\" placeholder=\"Seu nome\"><br> <input name=\"email\" type=\"email\" placeholder=\"E-mail\"><br> <input name=\"tel\" type=\"text\" placeholder=\"Telefone(whatsapp)\"><br> <textarea name=\"mensagem\" placeholder=\"Mensagem\"></textarea><br> <input name=\"_replyto\" type=\"hidden\"> <input name=\"_next\" type=\"hidden\" value=\"https://nunespaisagismo.com/obrigado\"> <input name=\"_subject\" type=\"hidden\" value=\"NunesPaisagismo Contato\"><br> <button type=\"submit\">Enviar</button></form>\n<p> </p>\n<p>Se preferir, este é o nosso telefone para contato:</p>\n<h3 id=\"mcetoc_1e6nqdm9v1\">(71) 99380.5721</h3>",
+            "content_html": "<h2 id=\"mcetoc_1e6nqemmr2\">Olá, vamos conversar?</h2>\n<p>Fale conosco a qualquer momento. O que você está pensando agora? Deixe-nos uma mensagem:</p>\n<p> </p>\n<form action=\" https://formsubmit.co/paisagismo.gn@gmail.com\" method=\"POST\"><input name=\"name\" type=\"text\" placeholder=\"Seu nome\"><br> <input name=\"email\" type=\"email\" placeholder=\"E-mail\"><br> <input name=\"tel\" type=\"text\" placeholder=\"Telefone(whatsapp)\"><br> <textarea name=\"mensagem\" placeholder=\"Mensagem\"></textarea><br> <input name=\"_replyto\" type=\"hidden\"> <input name=\"_next\" type=\"hidden\" value=\"https://nunespaisagismo.com/obrigado\"> <input name=\"_subject\" type=\"hidden\" value=\"NunesPaisagismo Contato\"><br><input name=\"_captcha\" type=\"hidden\" value=\"false\"> <button type=\"submit\">Enviar</button></form>\n<p> </p>\n<p>Se preferir, este é o nosso telefone para contato:</p>\n<h3 id=\"mcetoc_1e6nqdm9v1\">(71) 99380.5721</h3>",
             "author": {
                 "name": "Abrãao Nunes"
             },
             "tags": [
             ],
             "date_published": "2020-04-25T01:23:56-03:00",
-            "date_modified": "2020-04-26T19:23:20-03:00"
+            "date_modified": "2020-04-26T19:36:39-03:00"
         },
         {
             "id": "https://nunespaisagismo.github.io/poda-de-arvores/",

@@ -3,12 +3,35 @@
     <title>Nunes Paisagismo</title>
     <link href="https://nunespaisagismo.github.io/feed.xml" rel="self" />
     <link href="https://nunespaisagismo.github.io" />
-    <updated>2020-04-25T02:25:04-03:00</updated>
+    <updated>2020-04-26T19:18:33-03:00</updated>
     <author>
         <name>Abrãao Nunes</name>
     </author>
     <id>https://nunespaisagismo.github.io</id>
 
+    <entry>
+        <title>Obrigado</title>
+        <author>
+            <name>Abrãao Nunes</name>
+        </author>
+        <link href="https://nunespaisagismo.github.io/obrigado/"/>
+        <id>https://nunespaisagismo.github.io/obrigado/</id>
+
+        <updated>2020-04-26T19:17:17-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Obrigado!! Nós entraremos em contato com você o mais breve possível.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1e6s8vcim0">Obrigado!!</h2>
+<p> </p>
+Muito obrigado por entrar em contato conosco!
+<p id="mcetoc_1e6s90hf61">Nós entraremos em contato com você o mais breve possível.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fale conosco</title>
         <author>
@@ -17,7 +40,7 @@
         <link href="https://nunespaisagismo.github.io/fale-conosco/"/>
         <id>https://nunespaisagismo.github.io/fale-conosco/</id>
 
-        <updated>2020-04-25T01:45:51-03:00</updated>
+        <updated>2020-04-26T19:15:25-03:00</updated>
             <summary>
                 <![CDATA[
                     Olá, vamos conversar?Fale conosco a qualquer momento. O que você está pensando agora? Deixe-nos&hellip;
@@ -28,7 +51,7 @@
                 <h2 id="mcetoc_1e6nqemmr2">Olá, vamos conversar?</h2>
 <p>Fale conosco a qualquer momento. O que você está pensando agora? Deixe-nos uma mensagem:</p>
 <p> </p>
-<form class="pageclip-form" action="https://send.pageclip.co/nvcAiB6wHagDN7OPJbZgLpzBctQfv8UP" method="post"><!-- Replace these inputs with your own. Make sure they have a "name" attribute! --> <input name="name" type="text" value="Seu nome"> <br><input name="telefone" type="text" value="Seu Telefone"> <br><textarea name="mensagem">Mensagem</textarea> <!-- This button will have a loading spinner. Keep the inner span for best results. --> <br><button class="pageclip-form__submit" type="submit"> Enviar </button></form>
+<form action=" https://formsubmit.co/your@email.com " method="POST"><input name="name" type="text" placeholder="Seu nome"><br> <input name="email" type="email" placeholder="E-mail"><br> <input name="tel" type="text" placeholder="Telefone(whatsapp)"><br> <textarea name="mensagem" placeholder="Mensagem"></textarea><br> <input name="_replyto" type="hidden"> <input name="_next" type="hidden" value="https://nunespaisagismo.com/obrigado"> <input name="_subject" type="hidden" value="NunesPaisagismo Contato"><br> <button type="submit">Enviar</button></form>
 <p> </p>
 <p>Se preferir, este é o nosso telefone para contato:</p>
 <h3 id="mcetoc_1e6nqdm9v1">(71) 99380.5721</h3>
